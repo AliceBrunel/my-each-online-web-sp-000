@@ -1,3 +1,3 @@
-def my_each(arg)
+def my_each(array)
   # code here
 end
